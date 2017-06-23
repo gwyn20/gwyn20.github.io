@@ -2,7 +2,7 @@
 layout: post
 title: Reaching For Kyu
 ---
-Anyone who is in the process of learning to code or simply sharpen their skills is likely to have come across [codewars] (https://www.codewars.com) at some point.  For me it was no different, I soon found myself taking on the challenges and pushing myself to see how I could solve each Kata.  It was daunting at first but after successfully passing the initial test challenges I was on my way to pushing my rank up. 
+Anyone who is in the process of learning to code or simply sharpen their skills is likely to have come across http://www.codewars.com at some point.  For me it was no different, I soon found myself taking on the challenges and pushing myself to see how I could solve each Kata.  It was daunting at first but after successfully passing the initial test challenges I was on my way to pushing my rank up. 
 
 One of the most challenging parts of the kata can simply come down to understanding the task description.  Although this can be frustrating, it actually ends up being a good glimpse into the real world of coding and understanding the brief.  Once I was able to get stuck into the challenge I would soon find myself adjusting my code through trial and error as I aimed to pass each of the test requirements.
 
