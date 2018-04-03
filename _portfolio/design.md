@@ -33,3 +33,16 @@ Using the platorm of In-store listening station kiosks situated in independent r
 
 {:.center}
 ![]({{ site.baseurl }}/img/Design-U2-The-Joshua-Tree-30---Kioskv2.gif)
+
+## Mission Statement Poster
+
+I was asked to redesign an independent girls school mission statement poster ahead of their accreditation.  Here are a couple of the design proposals submmitted:
+
+{:.center}
+![]({{ site.baseurl }}/img/Design-OHS-Poster-A.jpg)
+
+{:.center}
+![]({{ site.baseurl }}/img/Design-OHS-Poster-B.jpg)
+
+{:.center}
+![]({{ site.baseurl }}/img/Design-OHS-Poster-C.jpg)
